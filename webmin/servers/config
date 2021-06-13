@@ -1,0 +1,11 @@
+capath=/usr/share/ca-certificates
+sort_mode=0
+deffast=2
+show_ip=0
+groups_dir=/etc/cluster/groups
+resolve=1
+show_status=1
+max_servers=100
+scan_time=5
+display_mode=0
+deflink=0

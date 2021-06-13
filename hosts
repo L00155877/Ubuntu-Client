@@ -1,0 +1,10 @@
+127.0.0.1	localhost
+127.0.1.1	Ubuntu-Client.l00155877.lyit
+172.18.68.2     l00155877.lyit
+172.18.68.4     ansible-bacula.l00155877.lyit ansible-bacula
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
